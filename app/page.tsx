@@ -1,4 +1,5 @@
-import Image from "next/image";
+import DynamicMap from "@/components/Map";
+import { zip_items } from "@/components/zipcodes_on_things_in_my_room";
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
           <p>i decided to map out where all these addresses were on just the items in my room at home. (i chose this limitation to avoid getting overwhelmed with stuff to look at, but this created a major bias against food items and for stuff like books and chapstick.)</p>
           <p>the map looks like this:</p>
 
-          
+          <DynamicMap items={zip_items} />
           
         </div>
       </main>

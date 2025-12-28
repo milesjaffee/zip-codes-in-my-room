@@ -1,5 +1,12 @@
-{
-    "things": [
+export interface Item {
+    zip: number;
+    group: string;
+    address: string;
+    item: string;
+    type: string;
+}
+export const zip_items: Item[] =
+[
         {
             "zip": 10022,
             "group": "Avon Books, An Imprint of HarperCollins Publishers",
@@ -445,4 +452,3 @@
 
 
     ]
-}
