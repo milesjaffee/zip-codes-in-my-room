@@ -18,14 +18,22 @@ try:
         # Use list comprehension to get the values
         values_list = [item.get('zip') for item in data['zips']]
         # Filter out potential 'None' values if the key might be missing for some items
-        target_zips = [value for value in values_list if value is not None]
+        target_zips = ["0"+str(value) for value in values_list if value < 10000]
+        target_zips += [str(value) for value in values_list if value > 10000]
+        
 except FileNotFoundError:
     print(f"Error: The file 'data.json' was not found.")
 except json.JSONDecodeError:
     print(f"Error: Could not decode JSON from the file. Check the file format.")
 
+print(f"targets: {len(target_zips)}")
+
 # Filter
 filtered = zctas[zctas["ZCTA5CE20"].isin(target_zips)]
+filtered_out_zips = sorted(set(map(str, target_zips)) - set(filtered["ZCTA5CE20"].astype(str).unique()))
+
+print(f"filtered: {len(filtered)}")
+print("no geo data:",filtered_out_zips)
 
 # Reproject to WGS84 (Leaflet expects this)
 filtered = filtered.to_crs(epsg=4326)

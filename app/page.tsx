@@ -1,5 +1,10 @@
-import DynamicMap from "@/components/Map";
-//import { zip_items } from "@/zipcodes_on_things_in_my_room";
+'use client';
+import dynamic from 'next/dynamic';
+
+const DynamicMap = dynamic(() => import('../components/Map'), {
+  ssr: false, // This line is crucial
+  loading: () => <p>Loading map...</p>, // Optional: show a loading state
+})
 
 export default function Home() {
   return (
