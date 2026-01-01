@@ -26,7 +26,7 @@ export default function DynamicMap() {
             onEachFeature={(feature, layer) => {
                 
                 layer.on("click", () => {
-                    (layer as L.Path).setStyle({ color: "#670" });
+                    (layer as L.Path).setStyle({ color: "#e62" });
 
                     const zip = Number(feature.properties.ZCTA5CE20);
                     const info = zipMetadata["zips"].find(item => item["zip"] === zip);
@@ -34,13 +34,14 @@ export default function DynamicMap() {
                     if (!info) return;
 
                     layer.bindPopup(`
-                        <strong>${zip}</strong><br/>
+                        <strong>${zip < 10000? "0"+zip : zip}</strong><br/>
                         Item: ${info.item}<br/>
                         From: ${info.group}, ${info.address}
                     `).openPopup().on("popupclose", () => {
                         (layer as L.Path).setStyle({ color: "#2563eb" });
                     })
                 });
+
                 layer.on({
                     mouseover: () => (layer as L.Path).setStyle({ fillOpacity: 0.45 }),
                     mouseout: () => (layer as L.Path).setStyle({ fillOpacity: 0.25 }),

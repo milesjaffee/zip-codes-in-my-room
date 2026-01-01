@@ -4,10 +4,9 @@ import json
 # Load full ZCTA dataset
 zctas = gpd.read_file("zip_shapes/zip_shapes_simplified.shp")
 
-# Your predefined ZIP list
+# predefined default zips
 target_zips = {
     "10001", "10002", "10003",
-    # ... ~100 ZIPs
 }
 
 try:

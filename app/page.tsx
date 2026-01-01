@@ -20,7 +20,7 @@ export default function Home() {
             <p>Exampleton, ST 12345</p>
           </div>
           <p>i decided to map out where all these addresses were on just the items in my room at home. (i chose this limitation to avoid getting overwhelmed with stuff to look at, but this created a major bias against food items and for stuff like books and random sticks of chapstick.)</p>
-          <p>the map looks like this:</p>
+          <p>the map looks like this. click on a zip code area to see what item it was on:</p>
 
           <DynamicMap />
 
