@@ -40,7 +40,7 @@ filtered = filtered.to_crs(epsg=4326)
 
 # Simplify geometry
 filtered["geometry"] = filtered.geometry.simplify(
-    tolerance=0.001,  # tweak this
+    tolerance=0.00001,  # tweak this
     preserve_topology=True
 )
 
