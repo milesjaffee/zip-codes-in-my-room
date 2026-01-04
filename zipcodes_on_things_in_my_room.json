@@ -1,24 +1,101 @@
 
 {"zips": [
         {
-            "zip": 10022,
-            "group": "Avon Books, An Imprint of HarperCollins Publishers",
-            "address": "10 E 53rd St, New York, NY 10022",
-            "item": "The New Comprehensive A-Z Crossword Dictionary / by Edy Garcia Schafer (1996)",
-            "type": "book"
+            "zip": 1510,
+            "group": "Legacy Publishing Group",
+            "address": "75 Green Street, Clinton, MA 01510",
+            "item": "Birthday Card",
+            "type": "memorabilia"
         },
         {
-            "zip": 94704,
-            "group": "Image Comics, Inc.",
-            "address": "2134 Allston Way, 2nd Floor, Berkeley, CA 94704",
-            "item": "The Walking Dead, Vol. 16: A Larger World / by Robert Kirkman (2012)",
-            "type": "book"
+            "zip": 1702,
+            "group": "Staples, Inc.",
+            "address": "500 Staples Drive, Framingham, MA 01702",
+            "item": "Composition Book",
+            "type": "office-supplies"
         },
         {
-            "zip": 10019,
-            "group": "DC Comics",
-            "address": "1700 Broadway, New York, NY 10019",
-            "item": "Fables, Vol. 2: Animal Farm / by Bill Willingham (2003)",
+            "zip": 2895,
+            "group": "CVS Pharmacy, Inc.",
+            "address": "1 CVS Dr, Woonsocket, RI 02895",
+            "item": "Melatonin Gummies 5mg",
+            "type": "personal-care"
+        },
+        {
+            "zip": 4043,
+            "group": "Tom's of Maine, Inc.",
+            "address": "Kennebunk, ME 04043",
+            "item": "Coconut Lavender Antipersperant Deodorant",
+            "type": "personal-care"
+        },
+        {
+            "zip": 6083,
+            "group": "LEGO Systems, Inc.",
+            "address": "Enfield, CT 06083",
+            "item": "Dinosaur Fossil LEGO Set (#76964)",
+            "type": "games"
+        },
+        {
+            "zip": 6901,
+            "group": "Beiersdorf Inc",
+            "address": "Stamford, CT 06901",
+            "item": "Aquaphor",
+            "type": "personal-care"
+        },
+        {
+            "zip": 7004,
+            "group": "Hamilton Buhl",
+            "address": "80 Little Falls Road, Fairfield, NJ 07004",
+            "item": "Airplane Earbuds",
+            "type": "music"
+        },
+        {
+            "zip": 7059,
+            "group": "GSK Consumer Healthcare",
+            "address": "Warren, NJ 07059",
+            "item": "ChapStick - Classic Cherry",
+            "type": "personal-care"
+        },
+        {
+            "zip": 7660,
+            "group": "Star Candle Company, LLC",
+            "address": "Ridgefield Park, NJ 07660",
+            "item": "Prayer Candle With Instructions In Spanish",
+            "type": "memorabilia"
+        },
+        {
+            "zip": 7981,
+            "group": "Bayer HealthCare LLC",
+            "address": "Whippany, NJ 07981",
+            "item": "One a Day Complete Multivitamin",
+            "type": "personal-care"
+        },
+        {
+            "zip": 8031,
+            "group": "Hit Promotional Products Inc.",
+            "address": "Bellmawr, NJ 08031",
+            "item": "'UPMC Health Plan' Natural Lip Balm and Sunscreen",
+            "type": "personal-care"
+        },
+        {
+            "zip": 8558,
+            "group": "Johnson & Johnson Consumer Inc.",
+            "address": "Skillman, NJ 08558",
+            "item": "Aveeno Daily Moisturizing Lotion",
+            "type": "personal-care"
+        },
+        {
+            "zip": 10001,
+            "group": "CeraVe(R) LLC",
+            "address": "New York, NY 10001",
+            "item": "Healing Ointment",
+            "type": "personal-care"
+        },
+        {
+            "zip": 10007,
+            "group": "Harper, An Imprint of HarperCollinsPublishers",
+            "address": "195 Broadway, New York, NY 10007",
+            "item": "Small Gods / by Terry Pratchett (1992, published 2013)",
             "type": "book"
         },
         {
@@ -36,129 +113,10 @@
             "type": "book"
         },
         {
-            "zip": 10020,
-            "group": "Simon & Schuster, Inc.",
-            "address": "1230 Avenue of the Americas, New York, NY 10020",
-            "item": "The Great Shark Hunt / by Hunter S. Thompson (1979, published 2003)",
-            "type": "book"
-        },
-        {
-            "zip": 1702,
-            "group": "Staples, Inc.",
-            "address": "500 Staples Drive, Framingham, MA 01702",
-            "item": "Composition Book",
-            "type": "office-supplies"
-        },
-        {
-            "zip": 92127,
-            "group": "Unison, a division of Fibro Source USA Inc.",
-            "address": "San Diego, CA 92127",
-            "item": "Composition Book - Item No. 20079",
-            "type": "office-supplies"
-        },
-        {
-            "zip": 45429,
-            "group": "MEAD (ACCO Brands)",
-            "address": "P.O. Box 290001, Dayton, OH 45429",
-            "item": "Composition Book",
-            "type": "office-supplies"
-        },
-        {
-            "zip": 64141,
-            "group": "Hallmark Licensing, LLC",
-            "address": "Kansas City, MO 64141",
-            "item": "Birthday Card",
-            "type": "memorabilia"
-        },
-        {
-            "zip": 91016,
-            "group": "Trader Joe's",
-            "address": "Monrovia, CA 91016",
-            "item": "Birthday Card",
-            "type": "memorabilia"
-        },
-        {
-            "zip": 1510,
-            "group": "Legacy Publishing Group",
-            "address": "75 Green Street, Clinton, MA 01510",
-            "item": "Birthday Card",
-            "type": "memorabilia"
-        },
-        {
-            "zip": 38133,
-            "group": "American Paper Optics, LLC",
-            "address": "2995 Appling Rd, Ste. 106, Bartlett, TN 38133",
-            "item": "Eclipse Sunglasses",
-            "type": "memorabilia"
-        },
-        {
-            "zip": 7660,
-            "group": "Star Candle Company, LLC",
-            "address": "Ridgefield Park, NJ 07660",
-            "item": "Prayer Candle With Instructions In Spanish",
-            "type": "memorabilia"
-        },
-        {
-            "zip": 4043,
-            "group": "Tom's of Maine, Inc.",
-            "address": "Kennebunk, ME 04043",
-            "item": "Coconut Lavender Antipersperant Deodorant",
-            "type": "personal-care"
-        },
-        {
-            "zip": 68127,
-            "group": "Oriental Trading Company",
-            "address": "Omaha, NE 68127",
-            "item": "Globe Stress Ball",
-            "type": "office-supplies"
-        },
-        {
-            "zip": 10591,
-            "group": "Medtech Products Inc.",
-            "address": "Tarrytown, NY 10591",
-            "item": "Ear Wax Removal Drops",
-            "type": "personal-care"
-        },
-        {
-            "zip": 43240,
-            "group": "McGraw-Hill Education",
-            "address": "8787 Orion Place, Columbus, OH 43240",
-            "item": "Discovering Our Past: A History of the World / by Jackson J. Spielvogel (2014)",
-            "type": "book"
-        },
-        {
-            "zip": 53213,
-            "group": "Hal Leonard Publishing Corporation",
-            "address": "7777 West Bluemound Road, P.O. Box 13819, Milwaukee, WI 53213",
-            "item": "Hendrix: Are You Experienced? The Complete Authoritative Transcriptions",
-            "type": "book"
-        },
-        {
             "zip": 10014,
             "group": "New American Library, a division of Penguin Group (USA) Inc.",
             "address": "375 Hudson St, New York, NY 10014",
             "item": "Animal Farm / by George Orwell",
-            "type": "book"
-        },
-        {
-            "zip": 10110,
-            "group": "W.W. Norton & Company, Inc.",
-            "address": "500 Fifth Avenue, New York, NY 10110",
-            "item": "25 Great Sentences and How They Got That Way / by Geraldine Woods (2020)",
-            "type": "book"
-        },
-        {
-            "zip": 10036,
-            "group": "Broadway Books, a division of Random House, Inc.",
-            "address": "1540 Broadway, New York, NY 10036",
-            "item": "I'm a Stranger Here Myself / by Bill Bryson (2000)",
-            "type": "book"
-        },
-        {
-            "zip": 10018,
-            "group": "Race Point Publishing, an imprint of The Quarto Group",
-            "address": "142 W 36th St, 4th Floor, New York, NY 10018",
-            "item": "The Essential Tales of H.P. Lovecraft (2016)",
             "type": "book"
         },
         {
@@ -169,87 +127,38 @@
             "type": "book"
         },
         {
-            "zip": 10104,
-            "group": "Little, Brown and Company - Hachette Book Group",
-            "address": "1290 Avenue of the Americas, New York, NY 10104",
-            "item": "The Catcher in the Rye / by J.D. Salinger",
+            "zip": 10018,
+            "group": "Race Point Publishing, an imprint of The Quarto Group",
+            "address": "142 W 36th St, 4th Floor, New York, NY 10018",
+            "item": "The Essential Tales of H.P. Lovecraft (2016)",
             "type": "book"
         },
         {
-            "zip": 94107,
-            "group": "VIZ Media, LLC",
-            "address": "P.O. Box 77010, San Francisco, CA 94107",
-            "item": "Chainsaw Man: Vol. 1",
+            "zip": 10019,
+            "group": "DC Comics",
+            "address": "1700 Broadway, New York, NY 10019",
+            "item": "Fables, Vol. 2: Animal Farm / by Bill Willingham (2003)",
             "type": "book"
         },
         {
-            "zip": 10007,
-            "group": "Harper, An Imprint of HarperCollinsPublishers",
-            "address": "195 Broadway, New York, NY 10007",
-            "item": "Small Gods / by Terry Pratchett (1992, published 2013)",
+            "zip": 10020,
+            "group": "Simon & Schuster, Inc.",
+            "address": "1230 Avenue of the Americas, New York, NY 10020",
+            "item": "The Great Shark Hunt / by Hunter S. Thompson (1979, published 2003)",
             "type": "book"
         },
         {
-            "zip": 19106,
-            "group": "Quirk Books",
-            "address": "215 Church St, Philadelphia, PA 19106",
-            "item": "Hollow City / by Ransom Riggs (2015)",
+            "zip": 10022,
+            "group": "Avon Books, An Imprint of HarperCollins Publishers",
+            "address": "10 E 53rd St, New York, NY 10022",
+            "item": "The New Comprehensive A-Z Crossword Dictionary / by Edy Garcia Schafer (1996)",
             "type": "book"
         },
         {
-            "zip": 97222,
-            "group": "Dark Horse Books, a division of Dark Horse Comics, Inc.",
-            "address": "10956 SE Main Street, Milwaukie, OR 97222",
-            "item": "Mogworld / by Yahtzee Croshaw",
-            "type": "book"
-        },
-        {
-            "zip": 76177,
-            "group": "Galderma Laboratories, L.P.",
-            "address": "Fort Worth, TX 76177",
-            "item": "Cetaphil Dermacontrol Oil Absorbing Moisturizer with Sunscreen Broad Spectrum SPF 30",
-            "type": "personal-care"
-        },
-        {
-            "zip": 6897,
-            "group": "Beiersdorf Inc",
-            "address": "Wilton, CT 06897",
-            "item": "Aquaphor",
-            "type": "personal-care"
-        },
-        {
-            "zip": 60093,
-            "group": "Medline Industries Inc.",
-            "address": "Three Lakes Drive, Northfield, IL 60093",
-            "item": "Roll-On Anti-perspirant 'Fresh Scent'",
-            "type": "personal-care"
-        },
-        {
-            "zip": 10001,
-            "group": "CeraVe(R) LLC",
-            "address": "New York, NY 10001",
-            "item": "Healing Ointment",
-            "type": "personal-care"
-        },
-        {
-            "zip": 49010,
-            "group": "Padagis",
-            "address": "Allegan, MI 49010",
-            "item": "Triamcinolone Acetonide Ointment USP, 0.1%",
-            "type": "personal-care"
-        },
-        {
-            "zip": 85251,
-            "group": "CP Skin Health Group, Inc.",
-            "address": "Scottsdale, AZ 85251",
-            "item": "EltaMD(R) UV Clear Broad Sunscreen SPF 46",
-            "type": "personal-care"
-        },
-        {
-            "zip": 49506,
-            "group": "The Zondervan Corporation",
-            "address": "Grand Rapids, MI 49506",
-            "item": "Holy Bible, New Revised Standard Version",
+            "zip": 10036,
+            "group": "Broadway Books, a division of Random House, Inc.",
+            "address": "1540 Broadway, New York, NY 10036",
+            "item": "I'm a Stranger Here Myself / by Bill Bryson (2000)",
             "type": "book"
         },
         {
@@ -260,53 +169,67 @@
             "type": "book"
         },
         {
+            "zip": 10104,
+            "group": "Little, Brown and Company - Hachette Book Group",
+            "address": "1290 Avenue of the Americas, New York, NY 10104",
+            "item": "The Catcher in the Rye / by J.D. Salinger",
+            "type": "book"
+        },
+        {
+            "zip": 10110,
+            "group": "W.W. Norton & Company, Inc.",
+            "address": "500 Fifth Avenue, New York, NY 10110",
+            "item": "25 Great Sentences and How They Got That Way / by Geraldine Woods (2020)",
+            "type": "book"
+        },
+        {
+            "zip": 10591,
+            "group": "Medtech Products Inc.",
+            "address": "Tarrytown, NY 10591",
+            "item": "Ear Wax Removal Drops",
+            "type": "personal-care"
+        },
+        {
+            "zip": 11716,
+            "group": "Structural Industries",
+            "address": "2950 Veterans Memorial Hwy, Bohemia, NY 11716",
+            "item": "Vinyl Record Frame",
+            "type": "art-music"
+        },
+        {
+            "zip": 11735,
+            "group": "D'Addario and Company, Inc.",
+            "address": "Farmingdale, NY 11735",
+            "item": "Pro-Arté Nylon Classical Guitar Strings",
+            "type": "art-music"
+        },
+        {
+            "zip": 17033,
+            "group": "The Hershey Company",
+            "address": "Hershey, PA 17033",
+            "item": "Reese's Peanut Butter Cup",
+            "type": "food"
+        },
+        {
             "zip": 18044,
             "group": "Binney & Smith",
             "address": "Easton, PA 18044",
             "item": "Portfolio Series Water Soluble Oil Pastels",
-            "type": "art"
+            "type": "art-music"
         },
         {
-            "zip": 94578,
-            "group": "Ghirardelli Chocolate Company",
-            "address": "San Leandro, CA 94578",
-            "item": "60% Cacao Dark Chocolate Square",
-            "type": "food"
-        },
-        {
-            "zip": 2895,
-            "group": "CVS Pharmacy, Inc.",
-            "address": "1 CVS Dr, Woonsocket, RI 02895",
-            "item": "Melatonin Gummies 5mg",
+            "zip": 19034,
+            "group": "Johnson & Johnson Consumer Inc. McNeil Consumer Healthcare Division",
+            "address": "Fort Washington, PA 19034",
+            "item": "Zyrtec Allergy - Cetirizine HCl orally disintegrating tablet 10mg/antihistamine",
             "type": "personal-care"
         },
         {
-            "zip": 7981,
-            "group": "Bayer HealthCare LLC",
-            "address": "Whippany, NJ 07981",
-            "item": "One a Day Complete Multivitamin",
-            "type": "personal-care"
-        },
-        {
-            "zip": 8558,
-            "group": "Johnson & Johnson Consumer Inc.",
-            "address": "Skillman, NJ 08558",
-            "item": "Aveeno Daily Moisturizing Lotion",
-            "type": "personal-care"
-        },
-        {
-            "zip": 91309,
-            "group": "Nature Made Nutritional Products",
-            "address": "West Hills, CA 91309",
-            "item": "Magnesium Citrate 250mg Softgels",
-            "type": "personal-care"
-        },
-        {
-            "zip": 33487,
-            "group": "Truss Cosmetics Corp.",
-            "address": "6451 East Rogers Circle, Boca Raton, FL 33487",
-            "item": "Net Mask - Intelligent Hair Repair",
-            "type": "personal-care"
+            "zip": 19106,
+            "group": "Quirk Books",
+            "address": "215 Church St, Philadelphia, PA 19106",
+            "item": "Hollow City / by Ransom Riggs (2015)",
+            "type": "book"
         },
         {
             "zip": 33150,
@@ -316,10 +239,87 @@
             "type": "personal-care"
         },
         {
-            "zip": 7059,
-            "group": "GSK Consumer Healthcare",
-            "address": "Warren, NJ 07059",
-            "item": "ChapStick - Classic Cherry",
+            "zip": 33431,
+            "group": "Design Go Inc.",
+            "address": "180 NW Corporate Blvd., Suite 302, Boca Raton, FL 33431",
+            "item": "Blue Airline Pillow",
+            "type": "office-supplies"
+        },
+        {
+            "zip": 33487,
+            "group": "Truss Cosmetics Corp.",
+            "address": "6451 East Rogers Circle, Boca Raton, FL 33487",
+            "item": "Net Mask - Intelligent Hair Repair",
+            "type": "personal-care"
+        },
+        {
+            "zip": 38133,
+            "group": "American Paper Optics, LLC",
+            "address": "2995 Appling Rd, Ste. 106, Bartlett, TN 38133",
+            "item": "Eclipse Sunglasses",
+            "type": "memorabilia"
+        },
+        {
+            "zip": 41018,
+            "group": "The United States Playing Card Company",
+            "address": "Erlanger, KY 41018",
+            "item": "Sunoco Branded Bicycle Playing Cards",
+            "type": "games"
+        },
+        {
+            "zip": 43240,
+            "group": "McGraw-Hill Education",
+            "address": "8787 Orion Place, Columbus, OH 43240",
+            "item": "Discovering Our Past: A History of the World / by Jackson J. Spielvogel (2014)",
+            "type": "book"
+        },
+        {
+            "zip": 45202,
+            "group": "Procter and Gamble",
+            "address": "Cincinnati, OH 45202",
+            "item": "Oral-B Glide Dental Floss",
+            "type": "personal-care"
+        },
+        {
+            "zip": 45429,
+            "group": "MEAD (ACCO Brands)",
+            "address": "P.O. Box 290001, Dayton, OH 45429",
+            "item": "Composition Book",
+            "type": "office-supplies"
+        },
+        {
+            "zip": 49010,
+            "group": "Padagis",
+            "address": "Allegan, MI 49010",
+            "item": "Triamcinolone Acetonide Ointment USP, 0.1%",
+            "type": "personal-care"
+        },
+        {
+            "zip": 49506,
+            "group": "The Zondervan Corporation",
+            "address": "Grand Rapids, MI 49506",
+            "item": "Holy Bible, New Revised Standard Version",
+            "type": "book"
+        },
+        {
+            "zip": 53213,
+            "group": "Hal Leonard Publishing Corporation",
+            "address": "7777 West Bluemound Road, P.O. Box 13819, Milwaukee, WI 53213",
+            "item": "Hendrix: Are You Experienced? The Complete Authoritative Transcriptions",
+            "type": "book"
+        },
+        {
+            "zip": 55403,
+            "group": "Target Corporation",
+            "address": "Minneapolis, MN 55403",
+            "item": "10 Ultra Soft Tissues",
+            "type": "personal-care"
+        },
+        {
+            "zip": 60093,
+            "group": "Medline Industries Inc.",
+            "address": "Three Lakes Drive, Northfield, IL 60093",
+            "item": "Roll-On Anti-perspirant 'Fresh Scent'",
             "type": "personal-care"
         },
         {
@@ -330,38 +330,17 @@
             "type": "personal-care"
         },
         {
-            "zip": 41018,
-            "group": "The United States Playing Card Company",
-            "address": "Erlanger, KY 41018",
-            "item": "Sunoco Branded Bicycle Playing Cards",
-            "type": "games"
+            "zip": 64141,
+            "group": "Hallmark Licensing, LLC",
+            "address": "Kansas City, MO 64141",
+            "item": "Birthday Card",
+            "type": "memorabilia"
         },
         {
-            "zip": 45202,
-            "group": "Procter and Gamble",
-            "address": "Cincinnati, OH 45202",
-            "item": "Oral-B Glide Dental Floss",
-            "type": "personal-care"
-        },
-        {
-            "zip": 6083,
-            "group": "LEGO Systems, Inc.",
-            "address": "Enfield, CT 06083",
-            "item": "Dinosaur Fossil LEGO Set (#76964)",
-            "type": "games"
-        },
-        {
-            "zip": 80027,
-            "group": "Fit for Life LLC",
-            "address": "1000 S McCaslin Blvd, Suite 300, Superior, CO 80027",
-            "item": "Gaiam Restore Loop Band Kit",
-            "type": "personal-care"
-        },
-        {
-            "zip": 95014,
-            "group": "Apple Inc.",
-            "address": "One Apple Park Way, Cupertino, CA 95014",
-            "item": "USB-C Charge Cable (2 m)",
+            "zip": 68127,
+            "group": "Oriental Trading Company",
+            "address": "Omaha, NE 68127",
+            "item": "Globe Stress Ball",
             "type": "office-supplies"
         },
         {
@@ -372,32 +351,25 @@
             "type": "office-supplies"
         },
         {
-            "zip": 11716,
-            "group": "Structural Industries",
-            "address": "2950 Veterans Memorial Hwy, Bohemia, NY 11716",
-            "item": "Vinyl Record Frame",
-            "type": "art"
+            "zip": 76177,
+            "group": "Galderma Laboratories, L.P.",
+            "address": "Fort Worth, TX 76177",
+            "item": "Cetaphil Dermacontrol Oil Absorbing Moisturizer with Sunscreen Broad Spectrum SPF 30",
+            "type": "personal-care"
         },
         {
-            "zip": 94710,
-            "group": "Fantasy, Inc.",
-            "address": "Tenth and Parker, Berkeley, CA 94710",
-            "item": "Miles Davis - 'Miles' (1954) Vinyl Record",
-            "type": "art"
+            "zip": 80027,
+            "group": "Fit for Life LLC",
+            "address": "1000 S McCaslin Blvd, Suite 300, Superior, CO 80027",
+            "item": "Gaiam Restore Loop Band Kit",
+            "type": "personal-care"
         },
         {
-            "zip": 97214,
-            "group": "Oni Press, Inc.",
-            "address": "1319 SE Martin Luther King Jr. Blvd., Suite 240, Portland, OR 97214",
-            "item": "Invader Zim #35 (2018)",
-            "type": "book"
-        },
-        {
-            "zip": 98115,
-            "group": "Fantagraphics Books",
-            "address": "7583 Lake City Way NE, Seattle, WA 98115",
-            "item": "Usagi Yojimbo, Book 5: Lone Goat and Kid / by Stan Sakai (2008)",
-            "type": "book"
+            "zip": 85251,
+            "group": "CP Skin Health Group, Inc.",
+            "address": "Scottsdale, AZ 85251",
+            "item": "EltaMD(R) UV Clear Broad Sunscreen SPF 46",
+            "type": "personal-care"
         },
         {
             "zip": 90036,
@@ -407,11 +379,32 @@
             "type": "book"
         },
         {
+            "zip": 91016,
+            "group": "Trader Joe's",
+            "address": "Monrovia, CA 91016",
+            "item": "Birthday Card",
+            "type": "memorabilia"
+        },
+        {
+            "zip": 91309,
+            "group": "Nature Made Nutritional Products",
+            "address": "West Hills, CA 91309",
+            "item": "Magnesium Citrate 250mg Softgels",
+            "type": "personal-care"
+        },     
+        {
             "zip": 92106,
             "group": "IDW Publishing, a division of Idea and Design Works, LLC",
             "address": "2765 Truxtun Rd, San Diego, CA 92106",
             "item": "Dungeons & Dragons: Evil at Baldur's Gate #04 (2018)",
             "type": "book"
+        },
+        {
+            "zip": 92127,
+            "group": "Unison, a division of Fibro Source USA Inc.",
+            "address": "San Diego, CA 92127",
+            "item": "Composition Book - Item No. 20079",
+            "type": "office-supplies"
         },
         {
             "zip": 92704,
@@ -421,18 +414,11 @@
             "type": "personal-care"
         },
         {
-            "zip": 8031,
-            "group": "Hit Promotional Products Inc.",
-            "address": "Bellmawr, NJ 08031",
-            "item": "'UPMC Health Plan' Natural Lip Balm and Sunscreen",
-            "type": "personal-care"
-        },
-        {
-            "zip": 98057,
-            "group": "Wizards of the Coast LLC",
-            "address": "P.O. Box 707, Renton, WA 98057",
-            "item": "Throne of Eldraine (2019) Booster Pack",
-            "type": "games"
+            "zip": 94107,
+            "group": "VIZ Media, LLC",
+            "address": "P.O. Box 77010, San Francisco, CA 94107",
+            "item": "Chainsaw Man: Vol. 1",
+            "type": "book"
         },
         {
             "zip": 94111,
@@ -442,13 +428,60 @@
             "type": "clothing"
         },
         {
-            "zip": 17033,
-            "group": "The Hershey Company",
-            "address": "Hershey, PA 17033",
-            "item": "Reese's Peanut Butter Cup",
+            "zip": 94578,
+            "group": "Ghirardelli Chocolate Company",
+            "address": "San Leandro, CA 94578",
+            "item": "60% Cacao Dark Chocolate Square",
             "type": "food"
+        },
+        {
+            "zip": 94704,
+            "group": "Image Comics, Inc.",
+            "address": "2134 Allston Way, 2nd Floor, Berkeley, CA 94704",
+            "item": "The Walking Dead, Vol. 16: A Larger World / by Robert Kirkman (2012)",
+            "type": "book"
+        },
+        {
+            "zip": 94710,
+            "group": "Fantasy, Inc.",
+            "address": "Tenth and Parker, Berkeley, CA 94710",
+            "item": "Miles Davis - 'Miles' (1954) Vinyl Record",
+            "type": "art-music"
+        }, 
+        {
+            "zip": 95014,
+            "group": "Apple Inc.",
+            "address": "One Apple Park Way, Cupertino, CA 95014",
+            "item": "USB-C Charge Cable (2 m)",
+            "type": "office-supplies"
+        },   
+        {
+            "zip": 97214,
+            "group": "Oni Press, Inc.",
+            "address": "1319 SE Martin Luther King Jr. Blvd., Suite 240, Portland, OR 97214",
+            "item": "Invader Zim #35 (2018)",
+            "type": "book"
+        },     
+        {
+            "zip": 97222,
+            "group": "Dark Horse Books, a division of Dark Horse Comics, Inc.",
+            "address": "10956 SE Main Street, Milwaukie, OR 97222",
+            "item": "Mogworld / by Yahtzee Croshaw",
+            "type": "book"
+        },
+        {
+            "zip": 98057,
+            "group": "Wizards of the Coast LLC",
+            "address": "P.O. Box 707, Renton, WA 98057",
+            "item": "Throne of Eldraine (2019) Booster Pack",
+            "type": "games"
+        },
+        {
+            "zip": 98115,
+            "group": "Fantagraphics Books",
+            "address": "7583 Lake City Way NE, Seattle, WA 98115",
+            "item": "Usagi Yojimbo, Book 5: Lone Goat and Kid / by Stan Sakai (2008)",
+            "type": "book"
         }
-
-
     ] 
 }
