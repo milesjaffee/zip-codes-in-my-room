@@ -28,6 +28,24 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+            <script
+              dangerouslySetInnerHTML={{
+              __html: `
+              const updateKofiWidget = (locale) => {
+              kofiWidgetOverlay.draw('milesjaffee', {
+                type: 'floating-chat',
+                'floating-chat.donateButton.text': 'Support Me',
+                'floating-chat.donateButton.background-color': '#bbfc',
+                'floating-chat.donateButton.text-color': '#000'
+              });
+              };
+
+              // Initial setup
+              updateKofiWidget('en');
+              `,
+              }}
+            ></script>
       </body>
     </html>
   );
