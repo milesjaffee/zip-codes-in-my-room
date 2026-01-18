@@ -15,6 +15,13 @@
             "type": "office-supplies"
         },
         {
+            "zip": 2210,
+            "group": "Cengage Learning",
+            "address": "20 Channel Center Street, Boston, MA 02210",
+            "item": "Acting: Onstage and Off / by Robert Barton",
+            "type": "book"
+        },
+        {
             "zip": 2895,
             "group": "CVS Pharmacy, Inc.",
             "address": "1 CVS Dr, Woonsocket, RI 02895",
@@ -183,10 +190,24 @@
             "type": "book"
         },
         {
+            "zip": 10271,
+            "group": "Macmillan Publishing Group, LLC",
+            "address": "120 Broadway, New York, NY 10271",
+            "item": "Six of Crows / by Leigh Bardugo (2015)",
+            "type": "book"
+        },
+        {
             "zip": 10591,
             "group": "Medtech Products Inc.",
             "address": "Tarrytown, NY 10591",
             "item": "Ear Wax Removal Drops",
+            "type": "personal-care"
+        },
+        {
+            "zip": 11701,
+            "group": "Sundial Brands",
+            "address": "11 Ranick Drive South, Amityville, NY 11701",
+            "item": "Shea Moisture Coconut Oil",
             "type": "personal-care"
         },
         {
@@ -208,7 +229,7 @@
             "group": "The Hershey Company",
             "address": "Hershey, PA 17033",
             "item": "Reese's Peanut Butter Cup",
-            "type": "food"
+            "type": "food-drink"
         },
         {
             "zip": 18044,
@@ -239,6 +260,13 @@
             "type": "personal-care"
         },
         {
+            "zip": 33326,
+            "group": "Jazwares, LLC",
+            "address": "Sunrise, FL 33326",
+            "item": "Squishmallows Squishville (tiny squishmallow)",
+            "type": "memorabilia"
+        },
+        {
             "zip": 33431,
             "group": "Design Go Inc.",
             "address": "180 NW Corporate Blvd., Suite 302, Boca Raton, FL 33431",
@@ -251,6 +279,13 @@
             "address": "6451 East Rogers Circle, Boca Raton, FL 33487",
             "item": "Net Mask - Intelligent Hair Repair",
             "type": "personal-care"
+        },
+        {
+            "zip": 34206,
+            "group": "Tropicana Manufacturing Company, Inc.",
+            "address": "Bradenton, FL 34206",
+            "item": "Tropicana Cranberry Juice",
+            "type": "food-drink"
         },
         {
             "zip": 38133,
@@ -281,6 +316,13 @@
             "type": "personal-care"
         },
         {
+            "zip": 45212,
+            "group": "The U.S. Playing Card Co.",
+            "address": "Cincinnati, OH 45212",
+            "item": "Bicycle Playing Cards",
+            "type": "games"
+        },
+        {
             "zip": 45429,
             "group": "MEAD (ACCO Brands)",
             "address": "P.O. Box 290001, Dayton, OH 45429",
@@ -293,6 +335,13 @@
             "address": "Allegan, MI 49010",
             "item": "Triamcinolone Acetonide Ointment USP, 0.1%",
             "type": "personal-care"
+        },
+        {
+            "zip": 49016,
+            "group": "Kellogg Sales Co",
+            "address": "Battle Creek, MI 49016",
+            "item": "Cheez-Its",
+            "type": "food-drink"
         },
         {
             "zip": 49506,
@@ -323,6 +372,13 @@
             "type": "personal-care"
         },
         {
+            "zip": 60654,
+            "group": "Conagra Brands",
+            "address": "P.O. Box 3534, Chicago, IL 60654",
+            "item": "Swiss Miss Hot Chocolate Mix",
+            "type": "food-drink"
+        },
+        {
             "zip": 64120,
             "group": "SupplyLogic",
             "address": "Kansas City, MO 64120",
@@ -342,6 +398,13 @@
             "address": "Omaha, NE 68127",
             "item": "Globe Stress Ball",
             "type": "office-supplies"
+        },
+        {
+            "zip": 70513,
+            "group": "McIlhenny Company",
+            "address": "Avery Island, LA 70513",
+            "item": "1/8 fl oz Tabasco Sauce",
+            "type": "food-drink"
         },
         {
             "zip": 76014,
@@ -377,6 +440,13 @@
             "address": "5670 Wilshire Boulevard, Suite 400, Los Angeles, CA 90036",
             "item": "Adventure Time Comics #35 (2018)",
             "type": "book"
+        },
+        {
+            "zip": 90245,
+            "group": "The LIV Group Inc.",
+            "address": "El Segundo, CA 90245",
+            "item": "Liquid I.V. Tropical Punch Drink Mix",
+            "type": "personal-care"
         },
         {
             "zip": 91016,
@@ -428,11 +498,18 @@
             "type": "clothing"
         },
         {
+            "zip": 94133,
+            "group": "The Gourmet Center Inc.",
+            "address": "465 Green St., San Francisco, CA 94133",
+            "item": "Lotus Biscoff Cookies",
+            "type": "food-drink"
+        },
+        {
             "zip": 94578,
             "group": "Ghirardelli Chocolate Company",
             "address": "San Leandro, CA 94578",
             "item": "60% Cacao Dark Chocolate Square",
-            "type": "food"
+            "type": "food-drink"
         },
         {
             "zip": 94704,
@@ -455,6 +532,13 @@
             "item": "USB-C Charge Cable (2 m)",
             "type": "office-supplies"
         },   
+        {
+            "zip": 95403,
+            "group": "NeilMed Pharmaceuticals Inc.",
+            "address": "601 Aviation Blvd., Santa Rosa, CA 95403",
+            "item": "NeilMed Sinus Rinse",
+            "type": "personal-care"
+        },
         {
             "zip": 97214,
             "group": "Oni Press, Inc.",
