@@ -162,6 +162,13 @@
             "type": "book"
         },
         {
+            "zip": 10023,
+            "group": "Atlantic Recording Corporation",
+            "address": "1841 Broadway, New York, NY 10023",
+            "item": "The Yes Album vinyl / by Yes (1971)",
+            "type": "art-music"
+        },
+        {
             "zip": 10036,
             "group": "Broadway Books, a division of Random House, Inc.",
             "address": "1540 Broadway, New York, NY 10036",
@@ -202,6 +209,13 @@
             "address": "Tarrytown, NY 10591",
             "item": "Ear Wax Removal Drops",
             "type": "personal-care"
+        },
+        {
+            "zip": 11201,
+            "group": "Domino Recording Co. Ltd.",
+            "address": "55 Washington St. #458 Brooklyn, NY 11701",
+            "item": "Merriweather Post Pavilion vinyl / by Animal Collective (2009)",
+            "type": "art-music"
         },
         {
             "zip": 11701,
@@ -372,6 +386,13 @@
             "type": "personal-care"
         },
         {
+            "zip": 60623,
+            "group": "Numero Group",
+            "address": "2533 S Troy St, Chicago, IL 60623",
+            "item": "Repetition vinyl / by Unwound (1996)",
+            "type": "art-music"
+        },
+        {
             "zip": 60654,
             "group": "Conagra Brands",
             "address": "P.O. Box 3534, Chicago, IL 60654",
@@ -522,7 +543,7 @@
             "zip": 94710,
             "group": "Fantasy, Inc.",
             "address": "Tenth and Parker, Berkeley, CA 94710",
-            "item": "Miles Davis - 'Miles' (1954) Vinyl Record",
+            "item": "Miles vinyl / by Miles Davis (1954)",
             "type": "art-music"
         }, 
         {
